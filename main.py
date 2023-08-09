@@ -1,6 +1,7 @@
-# Import necessary classes from other files.
 # NOTE: I only wrote the main.py. The other files were pre-written for me.
 # I used ChatGPT to write the explanatory comments.
+
+# Import necessary classes from other files.
 from menu import Menu
 from coffee_maker import CoffeeMaker
 from money_machine import MoneyMachine
