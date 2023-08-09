@@ -31,7 +31,7 @@ while machine_on:
         money_machine.report()  # Print money machine's financial status
     # Process a user's drink order
     else:
-        # Find the drink the user chose from the menu
+        # Access the menu
         user_choice = Menu().find_drink(choice)
 
         # Check if the chosen drink is available in the menu
